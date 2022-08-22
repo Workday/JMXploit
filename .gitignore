@@ -1,0 +1,9 @@
+.idea/
+output/
+build/
+.gradle/
+JMXploit.jar
+/src/main/java/testing/
+.DS_STORE
+/bin/main
+/src/main/java/Library.java
